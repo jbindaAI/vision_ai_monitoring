@@ -22,6 +22,10 @@ This repository gathers practical guides and comparisons of available tools to h
 
 ML engineers, MLOps practitioners, and developers deploying or maintaining Vision AI models who want to understand and adopt monitoring solutions.
 
+# TODO
+- **Evidently AI**
+
+
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines (to be added).
